@@ -4,9 +4,10 @@ This repository contains the coursework, experiments, and projects submitted as 
 
 ## 👥 Team Members
 - **Prahas**
+- **Yasashwini**
 - **Yashwanth**
 - **Harshith**
-- **Yasashwini**
+
 
 ---
 
