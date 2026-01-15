@@ -30,17 +30,10 @@ The repository is organized into multiple portfolios covering theoretical unders
 ### 4️⃣ Poem Generator Bot
 - **Folder:** `Poem_generater_bot-main.zip`
 - A project focused on building a poem generation bot using NLP techniques.
-- Includes model training, text generation, and evaluation components.
 
 ### 5️⃣ Kaggle Competition Code
 - **Folder:** Kaggle competition code
-- Contains notebooks/scripts used to participate in an NLP-related Kaggle competition.
 - Covers data preprocessing, feature engineering, model training, and evaluation.
-
-### 6️⃣ Capstone Project
-- **Folder:** Capstone project
-- A comprehensive end-to-end NLP project applying concepts learned throughout the course.
-- Includes problem definition, dataset handling, model development, experimentation, and results.
 
 ---
 
