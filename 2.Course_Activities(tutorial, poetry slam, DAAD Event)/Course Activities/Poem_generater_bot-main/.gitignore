@@ -1,4 +1,0 @@
-# GGUF models
-*.gguf  
-models/*.gguf  
-*.bin  
