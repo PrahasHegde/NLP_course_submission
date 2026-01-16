@@ -37,7 +37,7 @@ The repository is organized into multiple portfolios covering theoretical unders
 ### 2️⃣ Course Activities (Portfolio 2)
 - **Folder:** `2.Course_Activities(tutorial, poetry slam, DAAD Event).zip`
   - **Subfolders:**
-    - `Course Activities/DaaD event/` - Materials and code from DAAD Event participation
+    - `Course Activities/DaaD event/` - DAAD Event participation
     - `Course Activities/Poem_generater_bot-main/` - Poem generation bot project
       - Contains: `.gitignore`, `main.py`, `muse.py`, `README.md`
     - `Fine_tuning_a_masked_language_model_(PyTorch).ipynb` - Tutorial work on fine-tuning MLM using Hugging Face
