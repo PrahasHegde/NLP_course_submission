@@ -30,7 +30,7 @@ This repository contains the coursework, experiments, and projects submitted as 
 The repository is organized into multiple portfolios covering theoretical understanding, practical implementations, competitions, and a capstone project.
 
 ### 1️⃣ Paper Presentation (Portfolio 1)
-- **Folder:** `1.Paper_presentation .zip`
+- **Folder:** `1.Paper_presentation`
   - Contains the research paper: "A SIMPLE BUT TOUGH-TO-BEAT BASELINE FOR SENTENCE EMBEDDINGS"
   - Includes presentation deck (PDF) summarizing the concepts, methodology, and results
 
@@ -43,8 +43,7 @@ The repository is organized into multiple portfolios covering theoretical unders
     - `Fine_tuning_a_masked_language_model_(PyTorch).ipynb` - Tutorial work on fine-tuning MLM using Hugging Face
 
 ### 3️⃣ Kaggle Competition (Portfolio 3)
-- **Folder:** `3.Tunix_Kaggel_competation.zip`
-  - **Subfolder:** `Kaggel_Tunix/`
+- **Folder:** `3.Tunix_Kaggel_competation`
   - Contains:
     - `Gemma2_ARC_dataset.ipynb` - Jupyter notebook with competition code
     - `Results_1.png`, `Results_2.png`, `2.png`, `1.png` - Competition results and visualizations
