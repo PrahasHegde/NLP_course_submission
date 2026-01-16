@@ -2,8 +2,6 @@
 
 This repository contains the coursework, experiments, and projects submitted as part of the **Natural Language Processing (NLP) course**.
 
-> **Note:** Some files may not be properly visible or opened directly in GitHub's web interface. For the best viewing experience and to access all files properly, we recommend downloading the entire repository.
-
 ## Team Members
 - **Yashaswini Suresh**
 - **Prahas Hegde**
