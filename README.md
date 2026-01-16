@@ -20,7 +20,7 @@ This repository contains the coursework, experiments, and projects submitted as 
 **Course Activities (Portfolio 2)**
 - Tutorial participation: All members participated equally
 - Poetry slam: All members contributed equally
-- DAAD Event: Yashaswini Suresh, Yashwanth Goud
+- DAAD Event: Yashaswini Suresh, Yashwanth Goud, Prahas Hegde(could not attend due to germam exam)
 
 **Kaggle Competition (Portfolio 3)**
 - All team members contributed equally to data analysis, model development, and experimentation
