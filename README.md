@@ -23,6 +23,8 @@ This repository contains the coursework, experiments, and projects submitted as 
 **Kaggle Competition (Portfolio 3)**
 - All team members contributed equally to data analysis, model development, and experimentation
 
+**Capstone Project (Portfolio 4)**
+- All team members contributed equally to ideation, implementation, prototype development, and integrating course concepts
 ---
 
 ## Repository Structure
@@ -48,8 +50,40 @@ The repository is organized into multiple portfolios covering theoretical unders
     - `Gemma2_ARC_dataset.ipynb` - Jupyter notebook with competition code
     - `Results_1.png`, `Results_2.png`, `2.png`, `1.png` - Competition results and visualizations
     - `README.md` - Documentation for the competition approach
+   
+### 4. Capstone Project (Portfolio 4)
 
-### 4️⃣ README File
+- **Folder:** `4.capstone_project.zip`
+
+- `Project: CareerForge AI-cyber`
+- `An intelligent career optimization platform powered by Llama-3 and Groq`
+- Features:
+
+- `Advanced RAG (Retrieval Augmented Generation) for resume analysis`
+- `Live company intelligence integration`
+- `Interactive skill visualization`
+- `Helps bridge the gap between resumes and dream jobs`
+
+
+- Files:
+
+- `src/ - Source code directory containing:
+
+- `graph_builder.py - Graph construction module`
+- `llm_engine.py - LLM integration engine`
+- `pdf_gen.py - PDF generation utilities`
+- `pdf_handler.py - PDF processing module`
+- `ui_styles.py - UI styling components`
+- `web_search.py - Web search functionality`
+
+
+- `index.py - Main Streamlit application file`
+- `main.py - Application entry point`
+- `requirements.txt - Python dependencies`
+- `README.md - Project documentation`
+- `CareerForge AI_ppt.pdf - Project presentation`
+
+### 5 README File
 - **File:** `README.md`
 - Main documentation file for the repository (this file)
 
