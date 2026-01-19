@@ -76,11 +76,7 @@ The repository is organized into multiple portfolios covering theoretical unders
     - `requirements.txt` - Python dependencies
     - `README.md` - Project documentation
     - `CareerForge AI_ppt.pdf` - Project presentation
-  - **How to Run:**
-    1. Activate the environment
-    2. Install dependencies: `pip install -r requirements.txt`
-    3. Run the application: `streamlit run index.py`
-
+  
 ### 5️⃣ README File
 - **File:** `README.md`
 - Main documentation file for the repository (this file)
